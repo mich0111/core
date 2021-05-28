@@ -147,6 +147,8 @@ Trois boutons sont disponibles sur la droite de ce type de bloc pour sélectionn
 > **Tip**
 >
 > Il existe une liste de tags permettant d’avoir accès à des variables issues du scénario ou d’un autre, ou bien à l’heure, la date, un nombre aléatoire, … Voir plus loin les chapitres sur les commandes et les tags.
+> Les tests sur booléens sont applicables dans un bloc SI.
+> On peut écrire : SI boolean Ou SI NOT boolean
 
 Une fois la condition renseignée, vous devez utiliser le bouton "ajouter", à gauche, afin d’ajouter un nouveau **bloc** ou une **action** dans le bloc actuel.
 
